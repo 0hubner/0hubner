@@ -21,13 +21,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 
- #                                                                  *Redes Sociais* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260417488322570/a_starred.gif" height="30px" width="30px"/>
+ #                                                                  *過日子* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260417488322570/a_starred.gif" height="30px" width="30px"/>
  
-<p align="center">
-<a href="https://twitter.com/f5ntsy?a=09" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033471149244436/desconhecido.png?width=342&height=342" alt="overnight99" height="50" width="50" /></a>
-<a href="https://instragram.com/hvhsosa" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033941666004992/desconhecido.png?width=225&height=225" alt="overnight99" height="50" width="50"</a>
-</a>     
-</p>
+<img src="https://cdn.discordapp.com/attachments/1007857524889890838/1009568020508713001/minecraft-aesthetic-background.gif"/>
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/783731417783861298/795255492581785610/tumblr_f20aacf7843c9bf720aad33030d5caee_5fd73b6e_1280.gif?width=405&height=241" alt="Banner Profile"/></p>
 
