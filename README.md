@@ -2,10 +2,10 @@
 
 ##
 
-<p align="center">My name is lorenzo, I am 15 years old, I live in Brazil.
+<p align="center">My name is lorenzo, I am 16 years old, I live in Brazil.
 </p>
 
-<p align="center">I program as a hobby and when I want, in my spare time I play;-;
+<p align="center">I program as a hobby and when I want, in my spare time I play
 </p>
 
 #                                                                     *Sistemas Operacionais*  <img src="https://cdn.discordapp.com/attachments/783731417783861298/795259336439234610/u_dkzada.gif" height="30px" width="30px"/> 
