@@ -1,8 +1,8 @@
-#                                                                    *lorenzo* <img src="https://cdn.discordapp.com/emojis/698943360026804296.gif?v=1" height="30px" width="30px"/> 
+#                                                                    *Hübner* <img src="https://cdn.discordapp.com/emojis/698943360026804296.gif?v=1" height="30px" width="30px"/> 
 
 ##
 
-<p align="center">My name is lorenzo, I am 18 years old, I live in Brazil.
+<p align="center">My name is Lorenzo Hübner, I am 18 years old, I live in Brazil.
 </p>
 
 <p align="center">I program as a hobby and when I want, in my spare time I play
@@ -15,7 +15,7 @@
  #                                                                    *Linguagens & Ferramentas* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260004637868042/e_planet.gif" height="30px" width="30px"/> 
  
 [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/hubner0)
-[![forthebadge](https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)](https://github.com/hubner0)
+[![forthebadge](https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=%23F7DF1E)](https://github.com/hubner0)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
