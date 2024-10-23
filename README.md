@@ -1,4 +1,4 @@
-#                                                                    *Amizade* <img src="https://cdn.discordapp.com/emojis/698943360026804296.gif?v=1" height="30px" width="30px"/> 
+#                                                                    *Amizade* <img src="https://cdn.discordapp.com/emojis/1067621416100429824.gif?size=2048" height="30px" width="30px"/> 
 
 ##
 
@@ -15,10 +15,9 @@
  #                                                                    *Linguagens & Ferramentas* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260004637868042/e_planet.gif" height="30px" width="30px"/> 
  
 [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/hubner0)
-[![forthebadge]([https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=c&logoColor=%23F7DF1E](https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=c#&logoColor=%23F7DF1E))](https://github.com/hubner0)
+[![forthebadge](https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=c&logoColor=%blue)](https://github.com/hubner0)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 
@@ -26,7 +25,7 @@
  
 <img src="https://cdn.discordapp.com/attachments/1007857524889890838/1009568020508713001/minecraft-aesthetic-background.gif"/>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/783731417783861298/795255492581785610/tumblr_f20aacf7843c9bf720aad33030d5caee_5fd73b6e_1280.gif?width=405&height=241" alt="Banner Profile"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1277684824399806587/1298748809886699612/588a2b3c5cff2a85d53b2cac1a94cdcf.gif?ex=671ab195&is=67196015&hm=d66fd268660ed4949ea15b30800d626890df5cff684f186db94415fefc0e83b3&" alt="Banner Profile"/></p>
 
 "主義是在混亂中實現我們目標的最快方法。🖤" 
 <p align="left">
