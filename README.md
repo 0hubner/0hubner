@@ -1,4 +1,4 @@
-#                                                                    *Amizade* <img src="https://cdn.discordapp.com/emojis/1067621416100429824.gif?size=2048" height="30px" width="30px"/> 
+#                                                                    *Hübner* <img src="https://cdn.discordapp.com/emojis/1067621416100429824.gif?size=2048" height="30px" width="30px"/> 
 
 ##
 
