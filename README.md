@@ -4,4 +4,4 @@
 </p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,ts,cs,aws,mysql,mongodb,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,vue,ts,cs,aws,mysql,mongodb,ruby)](https://skillicons.dev)
